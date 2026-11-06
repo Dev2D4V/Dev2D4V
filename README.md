@@ -51,11 +51,11 @@ I'm a Computer Science student at GLA University, interested in building practic
 <div align="center">
 
 <a href="https://github.com/Dev2D4V">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dev2D4V&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Dev2D4V&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Dev2D4V">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev2D4V&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dev2D4V&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </a>
 
 <br/>
